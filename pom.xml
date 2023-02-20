@@ -35,8 +35,8 @@
           <artifactId>maven-clean-plugin</artifactId>
           <version>3.1.0</version>
         </plugin>
-        <plugins>
-         <plugin>
+      <plugins>
+        <plugin>
         <!-- Build an executable JAR -->
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-jar-plugin</artifactId>
